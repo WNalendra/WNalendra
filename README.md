@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WNalendra
-- 👀 I’m interested in game and backend developer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in game development and backend  
+- 🌱 I’m currently learning Python and C++
+      but i mainly use python for coding
 -  follow my instagram @nalen_d_ra
 
 <!---
