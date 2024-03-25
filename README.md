@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @WNalendra
 - 👀 I’m interested in UI/UX and game development
 - 🌱 I’m currently learning Python and C++
-- 🐍 I mainly use python for coding
--  follow my instagram @nalen_d_ra
+- siomay bandung enak
 
 
 <!---
