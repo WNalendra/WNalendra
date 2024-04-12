@@ -1,7 +1,7 @@
 "mengangumi indahnya bunga tidak perlu memetik hanya untuk sekedar memiliki"
 
 - 👋 Hi, I’m @WNalendra
-- 👀 I’m interested in UI/UX and game development
+- 👀 I’m interested in UI/UX and Software development
 - 🌱 I’m currently learning Python and C++
 - siomay bandung enak
 
